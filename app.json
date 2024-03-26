@@ -2,7 +2,7 @@
     "name": "Gifted Session Generator",
     "description": "I'm Web QR Session Generator by Gifted Tech & Excel",
     "logo": "https://telegra.ph/file/61f4aa5edf8dd7b83a021.jpg",
-    "repository": "https://github.com/Giftedmaurice/gifted-session-generator",
+    "repository": "https://github.com/darkewing/gifted-session-generator",
     "keywords": ["@GiftedBots"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
