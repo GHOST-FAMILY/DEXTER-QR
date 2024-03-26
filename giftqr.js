@@ -61,25 +61,14 @@ router.get('/', async (req, res) => {
 				   let GIFTED_BOTS_TEXT = `
 *✅sᴇssɪᴏɴ ᴄᴏɴɴᴇᴄᴛᴇᴅ✅*
 *Made With 💜*
-*By ɢɪғᴛᴇᴅ ᴛᴇᴄʜ💜*
+*By DEXTER ᴛᴇᴄʜ💜*
 ____________________________________
 ╔════◇
-║『 𝐖𝐎𝐖 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 』
+║『 𝐖𝐎𝐖 𝐘𝐎𝐔'𝐕𝐄 DEXTER 𝐌𝐃 』
 ║ You've Completed the First Step
 ║ to Deploy a Whatsapp Bot.
 ╚════════════════════╝
-╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _youtube.com/@giftedtechnexus_
-║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/message/NHCZC5DSOEUXB1_
-║❒ 𝐑𝐞𝐩𝐨: _https://github.com/Giftedmaurice/gifted-mdV2_
-║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/FPzB9wRD9RN4Zk2y2rnH3S_
-║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
-║❒ 𝐏𝐥𝐮𝐠𝐢𝐧𝐬: _https://github.com/Giftedmaurice/gifted-bot-md-plugins_
-║      💜💜💜
-╚════════════════════╝ 
- *©²⁰²⁴ ᴳᴵᶠᵀᴱᴰ ᵂᴴᴬᵀˢᴬᴾᴾ ᴮᴼᵀˢ*
-___________________________________
+
 
 _Don't Forget To Give Star⭐ To My Repo_`
 	 await Qr_Code_By_Gifted_Tech.sendMessage(Qr_Code_By_Gifted_Tech.user.id,{text:GIFTED_BOTS_TEXT},{quoted:session})
