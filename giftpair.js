@@ -56,20 +56,25 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_BOTS_TEXT = `
-*✅sᴇssɪᴏɴ ᴄᴏɴɴᴇᴄᴛᴇᴅ✅*
-*Made With 💜*
-*By DEXTER ᴛᴇᴄʜ💜*
-____________________________________
+*_Pair Code Connected by GHOST-MD*
+*_Made With 🤍_*
+______________________________________
 ╔════◇
-║『 𝐖𝐎𝐖 𝐘𝐎𝐔'𝐕𝐄 𝐆𝐇𝐎𝐒𝐓 𝐌𝐃 』
-║ You've Completed the First Step
-║ to Deploy a Whatsapp Bot.
-╚════════════════════╝
+║ *『 WOW YOU'VE CHOSEN GHOST MD 』*
+║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+╚════════════════════════╝
+╔═════◇
+║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║❒ *Ytube:* _https://youtube.com/@cyberghost630_
+║❒ *Owner:* _https://wa.me/+94741140620?text=*❝𝙷𝙴𝚈◹𝙶𝙷𝙾𝚂𝚃✗𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁❞⛺
+║❒ *Repo:* _https://github.com/KIND-GHOST/GHOST-MD-3.git_
+║❒ *WaGroup:* _https://chat.whatsapp.com/DhCdan60qzH0yoIxmybU3i_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaobbRhG8l5Mmhh2IA3O_
+║❒ *TikTok:* _tiktok.com/@.ghostmd_
+╚════════════════════════╝
+_____________________________________
 
- *©²⁰²⁴ ɢʜᴏꜱᴛ ᵂᴴᴬᵀˢᴬᴾᴾ ᴮᴼᵀˢ*
-___________________________________
-
-Don't Forget To Give Star⭐ To My Repo`
+_Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_BOTS_TEXT},{quoted:session})
  
 
